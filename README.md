@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-KIMMINSUuu-181717?style=for-the-badge&logo=github)](https://github.com/KIMMINSUuu)
 [![Email](https://img.shields.io/badge/Email-kimmin1754@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimmin1754@gmail.com)
 
-**Java Spring 백엔드 개발자 지망생**
+**Focusing on Java & Spring Framework**
 
 </div>
 
@@ -28,35 +28,33 @@
 
 - REST API 서버 설계 및 구축
 - MySQL 데이터베이스 설계
-- 부산 하천 수위 및 침수 정보 제공 API
+- 부산 하천 수위 및 침수 정보 제공 API 개발
 
 ### PRoAI
 > 광고 컨셉 생성 시스템 | [Repository](https://github.com/KIMMINSUuu/PRoAI)
 
 - CRUD API 구현
-- 데이터베이스 연동 및 관리
-- 웹 스크래핑 파이프라인 구축
-
+- 데이터베이스 연동
 ---
 
 ## Awards & Activities
 
 **제2회 전국대학 소프트웨어 성과 공유 포럼 혁신상** (2025.08)
 - 부산광역시, 과학기술정보통신부, IITP 주최
-- PRoAI 프로젝트 수상
+- PRoAI 프로젝트
 
-**DIVE 2025 제2회 글로벌 데이터 해커톤** (2025.08)
+**DIVE 2025 글로벌 데이터 해커톤** (2025.08)
 - 부산광역시, 부산테크노파크 주최
-- WAVI 프로젝트 참가
+- WAVI 프로젝트
 
 ---
 
-## 학습 중
+## Tech Skills
 
 - Java & Spring Framework
-- RESTful API 설계
-- MySQL 데이터베이스
-- Linux 서버 환경
+- RESTful API
+- MySQL
+- Linux
 
 ---
 
