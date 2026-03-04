@@ -23,18 +23,51 @@
 
 ## Projects
 
+- Team -
 ### WAVI
-> 부산 관광·재난 정보 통합 시스템 | [Repository](https://github.com/KIMMINSUuu/wavi-be)
+> 부산 관광·재난 정보 통합 시스템 | [Repository](https://github.com/mskimdev/wavi-be)
 
 - REST API 서버 설계 및 구축
 - MySQL 데이터베이스 설계
 - 부산 하천 수위 및 침수 정보 제공 API 개발
 
 ### PRoAI
-> 광고 컨셉 생성 시스템 | [Repository](https://github.com/KIMMINSUuu/PRoAI)
+> 광고 컨셉 생성 시스템 | [Repository](https://github.com/mskimdev/PRoAI)
 
 - CRUD API 구현
 - 데이터베이스 연동
+
+### ShoppingMall
+> 스포츠 용품 쇼핑몰 웹 애플리케이션 | [Repository](https://github.com/mskimdev/SW_SHOP) - private
+
+- 로그인, 회원가입, 제품 상세, 회원보드, myPage 구현
+- PNG 파일 경로 설정
+
+### Dong-a_programing_design
+> github와 유사한 코드 저장소 공유 플랫폼(동아 설계 코드 기반) | [Repository](https://github.com/mskimdev/Dong-a_programing_design) - private
+
+- Repository CRUD, Repository 상세 구현
+- 세션 설정
+- AWS RDS 연동
+
+### HotDog
+> 반려동물 산책 모바일 어플리케이션 | [Repository](https://github.com/mskimdev/hotdog)
+
+- 내 정보, QnA, 로그인, 로그아웃, 커뮤니티, 커뮤니티 상세, 리뷰, 리뷰 상세 구현
+- CRUD API 구현
+- 데이터베이스 연동
+
+- Personal -
+### FocusLight
+> 실시간 거리 감지와 조도 센서를 활용한 스마트 학습 집중도 모니터링 시스템 | [Repository](https://github.com/mskimdev/FocusLight)
+
+- Arduino, Raspberry PI를 활용
+- flask 서버 구현
+
+### BLMS(Badminton League Management System)
+> 영남지방 대학 배드민턴 리그 진행 프로그램 | [Repository](https://github.com/mskimdev/BLMS) - private
+
+- 동아대학교 제 4회 영남권 대학 배드민턴 대회 실사용 프로그램
 ---
 
 ## Awards & Activities
