@@ -23,7 +23,9 @@
 
 ## Projects
 
-- Team -
+
+-- Team--
+
 ### WAVI
 > 부산 관광·재난 정보 통합 시스템 | [Repository](https://github.com/mskimdev/wavi-be)
 
@@ -57,7 +59,9 @@
 - CRUD API 구현
 - 데이터베이스 연동
 
-- Personal -
+
+-- Personal --
+
 ### FocusLight
 > 실시간 거리 감지와 조도 센서를 활용한 스마트 학습 집중도 모니터링 시스템 | [Repository](https://github.com/mskimdev/FocusLight)
 
