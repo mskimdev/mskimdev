@@ -2,7 +2,7 @@
 
 # Backend Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-KIMMINSUuu-181717?style=for-the-badge&logo=github)](https://github.com/KIMMINSUuu)
+[![GitHub](https://img.shields.io/badge/GitHub-KIMMINSUuu-181717?style=for-the-badge&logo=github)](https://github.com/mskimdev)
 [![Email](https://img.shields.io/badge/Email-kimmin1754@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimmin1754@gmail.com)
 
 **Focusing on Java & Spring Framework**
